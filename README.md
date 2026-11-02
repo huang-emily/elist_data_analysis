@@ -3,24 +3,25 @@ A sales trend data analysis for an e-commerice company.
 
 # Overview
 
+
 ## ERD
 ![Elist Sales Data ERD](./images/elist_data_ERD.webp)
 
-# Insights
-section text
-
-## Sales Trends
+# Overall Trends
 section text
 
 
-## Product Trends
+## Monthly and Yearly Growth Rates
 section text
 
 
-## Loyalty Program
+## Loyalty Program Performance
 section text
 
 
-## Refund Rates
+## Apple Product Refund Rates
 section text
 
+
+# Recommendations
+section text
